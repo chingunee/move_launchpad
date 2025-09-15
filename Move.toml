@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+launchpad_addr="0xf833d60effcf0079c0178a3316c8336f4a0dafa1ce07b10f0baf92c9b129c641"
 
 [dev-addresses]
 
